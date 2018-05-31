@@ -1,0 +1,6 @@
+*.xpr
+*.cache/
+*.hw/
+*.ip_user/
+*.runs/
+*.sim/
